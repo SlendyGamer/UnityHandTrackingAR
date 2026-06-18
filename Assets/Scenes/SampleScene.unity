@@ -1495,7 +1495,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isTouching: 0
-  touchingFinger: 0
   touchedObject: {fileID: 0}
 --- !u!1 &285606387
 GameObject:
@@ -1912,7 +1911,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isTouching: 0
-  touchingFinger: 0
   touchedObject: {fileID: 0}
 --- !u!1 &305956012
 GameObject:
@@ -2578,7 +2576,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isTouching: 0
-  touchingFinger: 0
   touchedObject: {fileID: 0}
 --- !u!4 &475670085 stripped
 Transform:
@@ -3010,7 +3007,7 @@ Transform:
   m_GameObject: {fileID: 545131266}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.83, y: -0.21000001, z: 4.39}
+  m_LocalPosition: {x: -0.42, y: -6.44, z: 31.13}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3187,7 +3184,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isTouching: 0
-  touchingFinger: 0
   touchedObject: {fileID: 0}
 --- !u!1 &567426638
 GameObject:
@@ -6264,7 +6260,6 @@ MonoBehaviour:
   - {fileID: 1664628789}
   - {fileID: 285042592}
   - {fileID: 434674755}
-  lr: {fileID: 707167541}
   releaseDelay: 0.5
 --- !u!4 &1276416438 stripped
 Transform:
@@ -7510,7 +7505,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isTouching: 0
-  touchingFinger: 0
   touchedObject: {fileID: 0}
 --- !u!4 &1691783046 stripped
 Transform:
