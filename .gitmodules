@@ -1,0 +1,4 @@
+[submodule "Assets/Python"]
+	path = Assets/Python
+	url = git@github.com:SlendyGamer/hand-detection-mediapipe_for_Unity.git
+	branch = adv3D
